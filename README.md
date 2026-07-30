@@ -1,6 +1,6 @@
 # Venmarc
 
-I build fullstack web apps solo — planning with LLMs, then executing through hands-on implementation, from architecture to deploy. Some of it's for clients, most of it's for myself first.
+I build fullstack web apps and agentic systems solo — planning with LLMs, then executing through hands-on implementation, from architecture to deploy. Some of it's for clients, most of it's for myself first.
 
 ## What I'm working on
 
@@ -8,7 +8,7 @@ I build fullstack web apps solo — planning with LLMs, then executing through h
 
 **[Momentum](https://peakmomentum.vercel.app):** A personal operating system for tracking habits and fitness over time. Built for daily use, not a demo. Live. 
 
-**[SecondBrain](https://github.com/Venmarc/SecondBrain):** My Obisidian Vault based on Karpathy's [LLM-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), for storing agent sessions, antipatterns, UI polishing rules, best practices, and generally anything that has helped improved my workflow. it uses a PARA structure system and an [index](https://github.com/Venmarc/SecondBrain/blob/main/index.md) to point easily an agent to any part of the vault
+**[SecondBrain](https://github.com/Venmarc/SecondBrain):** My Obisidian Vault based on Karpathy's [LLM-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), for storing agent sessions, antipatterns, UI polishing rules, best practices, and generally anything that has helped improved my workflow. it uses a PARA structure system and an [index](https://github.com/Venmarc/SecondBrain/blob/main/index.md) to easily point an agent to any part of the vault.
 
 ## How I work
 
