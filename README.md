@@ -1,4 +1,6 @@
-<img src="./assets/logo.svg" alt="Venmarc Logo" width="60" align="left">
+<p align="center">
+  <img src="./assets/logo.svg" alt="Venmarc Logo" width="90">
+</p>
 
 # Venmarc
 
