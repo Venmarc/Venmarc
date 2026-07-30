@@ -20,6 +20,6 @@ Next.js · TypeScript · Supabase · Tailwind · Vercel
 
 ## Elsewhere
 
-- Twitter/X: [@mario_d3v](https://x.com/mario_d3v)
+- Twitter/X: [mario_d3v](https://x.com/mario_d3v)
 - Linkedin: [Venmarc](https://www.linkedin.com/in/venmarc/)
 - Portfolio: [venmarcstudio.xyz](https://venmarcstudio.xyz)
