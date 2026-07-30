@@ -1,3 +1,5 @@
+<img src="./assets/logo.svg" alt="Venmarc Logo" width="60" align="left">
+
 # Venmarc
 
 I build fullstack web apps and agentic systems solo — planning with LLMs, then executing through hands-on implementation, from architecture to deploy. Some of it's for clients, most of it's for myself first.
